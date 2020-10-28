@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75430049199",
+    "firebase_url": "https://worqoutapp.firebaseio.com",
+    "project_id": "worqoutapp",
+    "storage_bucket": "worqoutapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75430049199:android:3422810be034a5728b2b5a",
+        "android_client_info": {
+          "package_name": "com.greg19007919.worqoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75430049199-1gqfttcl1h2bomneq2drsta1ifciouea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greg19007919.worqoutapp",
+            "certificate_hash": "59b5fde92efaf5304c158b7c2e3164d8d3bd6859"
+          }
+        },
+        {
+          "client_id": "75430049199-c1p35ofancnrc9974gk9jbl9u8pkm25c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCKwNM-GY9rkJLzKH1dS_YVhKHXRw_Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75430049199-c1p35ofancnrc9974gk9jbl9u8pkm25c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
