@@ -2,7 +2,7 @@
     <string name="app_name">WorqoutApp</string>
 
     <string-array name="sexSelect">
-    <item>Female</item>
-    <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
     </string-array>
 </resources>
