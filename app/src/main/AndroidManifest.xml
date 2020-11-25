@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".userInfo"></activity>
-        <activity android:name=".DailyDiary" />
+
         <activity android:name=".Login" />
         <activity android:name=".Register">
             <intent-filter>
